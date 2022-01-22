@@ -1,0 +1,34 @@
+
+.liste {
+list-style: none;
+margin-right: 10px;
+color: black;
+font-size: 20px;
+}
+ul {
+    display:flex;
+    font-style: italic;
+    text-align:justify;
+  margin-left:900px;
+  
+
+}
+h1{
+  text-align: center;
+}
+.vedio {
+  text-align: center;
+  font-weight: 100;
+}
+.image{
+  text-align: center;
+
+}
+footer{
+  
+  text-align: right;
+
+}
+
+
+
